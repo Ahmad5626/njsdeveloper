@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1a6dd087.css",
+    "main.js": "/static/js/main.40d91221.js",
+    "static/js/453.43db80c1.chunk.js": "/static/js/453.43db80c1.chunk.js",
+    "static/media/awards-gif.gif": "/static/media/awards-gif.8bef99f33324987c78f4.gif",
+    "static/media/09.webp": "/static/media/09.346f7cda8ff5a12c8983.webp",
+    "static/media/logo-njs.png": "/static/media/logo-njs.c2b59cbfb8424d2f3f7f.png",
+    "static/media/07.webp": "/static/media/07.d1e1b70586ac035fa941.webp",
+    "static/media/coding.png": "/static/media/coding.6361eb4a6b220b79ac21.png",
+    "static/media/main-bg-4.webp": "/static/media/main-bg-4.d64af59321a773365562.webp",
+    "static/media/vector-bg-1.webp": "/static/media/vector-bg-1.b03be8fe4c876f4247fa.webp",
+    "static/media/bg2.svg": "/static/media/bg2.98a0a9d30a23421dab8f.svg",
+    "static/media/faq_background.svg": "/static/media/faq_background.dd07228974e5766cc7e6.svg",
+    "static/media/02.webp": "/static/media/02.736ee202508774e99b48.webp",
+    "static/media/awards-icon.webp": "/static/media/awards-icon.a20c793b17339ca74480.webp",
+    "static/media/projects-icon.webp": "/static/media/projects-icon.710c99a415058a18e3b3.webp",
+    "static/media/lemo.webp": "/static/media/lemo.381ba8cea54e70d97e7d.webp",
+    "static/media/location-icon.webp": "/static/media/location-icon.9503c37b303a156e0282.webp",
+    "static/media/elegantreport.webp": "/static/media/elegantreport.aedf132419a48bf47f02.webp",
+    "static/media/aco-icon-1.webp": "/static/media/aco-icon-1.021107cbe216de0a6338.webp",
+    "static/media/realestate.webp": "/static/media/realestate.1299adde9b9931939f78.webp",
+    "static/media/trueparking.webp": "/static/media/trueparking.9a12cf6f9beb6648939f.webp",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/Feature-imager-1.webp": "/static/media/Feature-imager-1.d3682258b286de848e7c.webp",
+    "static/media/Feature-image.webp": "/static/media/Feature-image.42a6b2b60e7a963436ff.webp",
+    "index.html": "/index.html",
+    "static/media/Feature-image-Error.webp": "/static/media/Feature-image-Error.ffec623967c6b14043dd.webp",
+    "static/media/Feature-image-2.webp": "/static/media/Feature-image-2.dfae48ca87f156a4dc34.webp",
+    "main.1a6dd087.css.map": "/static/css/main.1a6dd087.css.map",
+    "main.40d91221.js.map": "/static/js/main.40d91221.js.map",
+    "453.43db80c1.chunk.js.map": "/static/js/453.43db80c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a6dd087.css",
+    "static/js/main.40d91221.js"
+  ]
+}
